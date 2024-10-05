@@ -19,14 +19,10 @@ A simple music player application built in Python that uses a circular linked li
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
    git clone https://github.com/yourusername/music-player.git
    cd music-player
 Install the required packages:
 
-bash
-Copy code
 pip install pygame
 Usage
 Run the application:
